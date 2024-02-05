@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bankrupt">Банкрот</string>
+    <string name="doubling">Удвоение</string>
+    <string name="plus">Сектор плюс</string>
+    <string name="car">ААААвтомобиль!!!</string>
+    <string name="prize">Сектор приз</string>
+    <string name="hundred">100 очков</string>
+    <string name="chance">Шанс</string>
+</resources>

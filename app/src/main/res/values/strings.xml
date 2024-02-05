@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bankrupt">Bunkrupt</string>
+    <string name="doubling">Doubling</string>
+    <string name="plus">Sector plus</string>
+    <string name="car">Caaaaar!</string>
+    <string name="prize">Prize</string>
+    <string name="hundred">100 points</string>
+    <string name="chance">Chance</string>
+</resources>
